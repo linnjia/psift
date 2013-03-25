@@ -1,0 +1,13 @@
+syntax: glob
+
+*~
+*.mat
+*.mexglx
+*.mexa64
+*.mexmaci
+*.mexmaci64
+*.mexw32
+*.mexw64
+
+syntax: regexp
+

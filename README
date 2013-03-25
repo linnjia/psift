@@ -1,0 +1,9 @@
+
+Compile: Mex compile .c files
+
+See pSIFT_demo.m in folder demo for an example of how to implement the code.  
+A test fisheye image is supplied
+
+The pSIFT keypoints are stored in a multi-dimensional structure
+Edit the pSIFT wrapper pSIFT.m to store in an alternate format.
+
