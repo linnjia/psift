@@ -25,8 +25,9 @@
 %   - "Wide-Angle Visual Feature Matching for Outdoor Localization"
 %      Hansen, Corke and Boles
 %      Int. Journal of Robotics Research, Vol.29, 2010.
-%
-%  NOTE: using matlab syle coords: upper left pixel position is (1,1)
+%   http://ijr.sagepub.com/content/29/2-3/267.abstract
+%   
+%   NOTE: using matlab syle coords: upper left pixel position is (1,1)
 %
 
 clear all

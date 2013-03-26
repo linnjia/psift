@@ -21,6 +21,12 @@
 %
 %   Copyright (C) 2013 Peter Hansen [phansen.au(at)gmail.com]  
 %
+%   For more details, see:
+%   - "Wide-Angle Visual Feature Matching for Outdoor Localization"
+%      Hansen, Corke and Boles
+%      Int. Journal of Robotics Research, Vol.29, 2010.
+%   http://ijr.sagepub.com/content/29/2-3/267.abstract
+%
 
 function f = pSIFT(img, mask, vars)
     

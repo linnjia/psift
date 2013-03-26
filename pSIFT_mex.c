@@ -10,6 +10,13 @@
  ** MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  ** GNU General Public License for more details.
  **
+ **
+ ** For more details, see:
+ ** - "Wide-Angle Visual Feature Matching for Outdoor Localization"
+ **    Hansen, Corke and Boles
+ **    Int. Journal of Robotics Research, Vol.29, 2010.
+ **    http://ijr.sagepub.com/content/29/2-3/267.abstract
+ **
  **/
 
  
