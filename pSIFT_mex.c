@@ -187,6 +187,7 @@ pSIFT(double *key_tmp, double *img, double *mask_input, int *mask,
     
     /* Set the map 'found' of yes/no features at pixel position */
     found_ptr = &found[0];
+    n_init = (2*nr-2) * (2*nc-2);
     for (i = 0; i < n_init; i++, found_ptr++) {
         *found_ptr = 0;
     }
